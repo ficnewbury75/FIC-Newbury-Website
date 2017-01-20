@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:792E5D99-20AC-4A54-806C-4E8927031C76</id>
  <title>Page list Atom feed</title>
- <updated>2017-01-20T02:02:29+00:00</updated>
+ <updated>2017-01-20T02:48:40+00:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Welcome</title>
   <in-navbar xmlns="urn:iweb:">120CE22B-1D77-4BC6-9EE2-05D88BCC948E</in-navbar>
   <link rel="alternate" href="Welcome.html"/>
-  <updated>2017-01-20T02:02:29.001+00:00</updated>
+  <updated>2017-01-20T02:48:40.001+00:00</updated>
   <content>Welcome</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Who we are</title>
   <in-navbar xmlns="urn:iweb:">1A78A121-09BC-426E-A638-8364224D4013</in-navbar>
   <link rel="alternate" href="Who_we_are.html"/>
-  <updated>2017-01-20T02:02:29.002+00:00</updated>
+  <updated>2017-01-20T02:48:40.002+00:00</updated>
   <content>Who we are</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Courses</title>
   <in-navbar xmlns="urn:iweb:">49954F7A-2D95-468E-8CA4-1419A7037A62</in-navbar>
   <link rel="alternate" href="Courses.html"/>
-  <updated>2017-01-20T02:02:29.003+00:00</updated>
+  <updated>2017-01-20T02:48:40.003+00:00</updated>
   <content>Courses</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">Training</title>
   <in-navbar xmlns="urn:iweb:">590D8D79-6D42-4FAB-AD94-3997057A5CAE</in-navbar>
   <link rel="alternate" href="Training.html"/>
-  <updated>2017-01-20T02:02:29.004+00:00</updated>
+  <updated>2017-01-20T02:48:40.004+00:00</updated>
   <content>Training</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">The Strategy</title>
   <in-navbar xmlns="urn:iweb:">972478C0-5534-4565-B772-8BFD18055ACF</in-navbar>
   <link rel="alternate" href="The_Strategy.html"/>
-  <updated>2017-01-20T02:02:29.005+00:00</updated>
+  <updated>2017-01-20T02:48:40.005+00:00</updated>
   <content>The Strategy</content>
  </entry>
  <entry>
@@ -59,7 +59,7 @@
   <title xmlns="urn:iweb:">Support</title>
   <in-navbar xmlns="urn:iweb:">E506BEE8-9022-43F6-A46F-184C41A02BFA</in-navbar>
   <link rel="alternate" href="Support.html"/>
-  <updated>2017-01-20T02:02:29.006+00:00</updated>
+  <updated>2017-01-20T02:48:40.006+00:00</updated>
   <content>Support</content>
  </entry>
  <entry>
@@ -68,7 +68,7 @@
   <title xmlns="urn:iweb:">Links &amp; Venues</title>
   <in-navbar xmlns="urn:iweb:">199103AE-773A-4022-A2FC-EAD0ACBBBE09</in-navbar>
   <link rel="alternate" href="Links_%26_Venues.html"/>
-  <updated>2017-01-20T02:02:29.007+00:00</updated>
+  <updated>2017-01-20T02:48:40.007+00:00</updated>
   <content>Links &amp; Venues</content>
  </entry>
  <entry>
@@ -77,7 +77,7 @@
   <title xmlns="urn:iweb:">Contact us</title>
   <in-navbar xmlns="urn:iweb:">228F1888-885E-4047-A568-9A0A7B8E87ED</in-navbar>
   <link rel="alternate" href="Contact_us.html"/>
-  <updated>2017-01-20T02:02:29.008+00:00</updated>
+  <updated>2017-01-20T02:48:40.008+00:00</updated>
   <content>Contact us</content>
  </entry>
 </feed>
